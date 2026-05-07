@@ -118,15 +118,21 @@ O objetivo não foi replicar todas as análises exploratórias realizadas em SQL
 
 ## Exemplos do Dashboard
 
-![Resumo Executivo](./dashboard/resumo-executivo.png)
+Resumo Executivo
+<img width="1477" height="824" alt="image" src="https://github.com/user-attachments/assets/b93b331c-ad87-4741-8d45-26dd8a4ea17e" />
 
-![Faturamento](./dashboard/faturamento.png)
+Faturamento
+<img width="1483" height="822" alt="image" src="https://github.com/user-attachments/assets/d74c843a-3340-4209-a353-bed3dc5e2f27" />
 
-![Performace de Planos](./dashboard/performace-planos.png)
+Performace de Planos
+<img width="1487" height="830" alt="image" src="https://github.com/user-attachments/assets/96e04104-72c3-4b4b-a197-c1f07dc749bf" />
 
-![Churn](./dashboard/analise-churn.png)
+Churn
+<img width="1485" height="825" alt="image" src="https://github.com/user-attachments/assets/5c660f2f-3daf-46c3-a271-edf25ba94b9a" />
 
-![Renovações](./dashboard/renovacoes.png)
+Renovações
+<img width="1482" height="824" alt="image" src="https://github.com/user-attachments/assets/01b049c8-f6b5-4f81-adb1-57ab2dd86627" />
+
 
 ---
 
